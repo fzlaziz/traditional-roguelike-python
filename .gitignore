@@ -1,0 +1,11 @@
+# Git Ignore for stopping tracking a file
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+
+.idea
+
+__pycache__
+
+venv
